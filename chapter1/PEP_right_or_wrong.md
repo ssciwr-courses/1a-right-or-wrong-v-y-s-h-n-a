@@ -64,9 +64,9 @@ Other:
 - [ ] d `_list = my_areas`
 
 Modules:
-- [x] a `Numerical.py`
-- [ ] b `numerical.py`
-- [ ] c `numerical_analysis.py`
+- [ ] a `Numerical.py`
+- [x] b `numerical.py`
+- [x] c `numerical_analysis.py`
 - [ ] d `numerical-analysis.py`
 
 Packages:
