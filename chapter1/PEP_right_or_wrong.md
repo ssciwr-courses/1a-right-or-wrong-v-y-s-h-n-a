@@ -58,14 +58,14 @@ Constants:
 - [x] d `T = 0.1`
 
 Other:
-- [x] a `list = my_areas`
-- [ ] b `list_ = my_areas`
+- [ ] a `list = my_areas`
+- [x] b `list_ = my_areas`
 - [ ] c `__list__ = my_areas`
 - [ ] d `_list = my_areas`
 
 Modules:
-- [ ] a `Numerical.py`
-- [x] b `numerical.py`
+- [x] a `Numerical.py`
+- [ ] b `numerical.py`
 - [ ] c `numerical_analysis.py`
 - [ ] d `numerical-analysis.py`
 
