@@ -66,7 +66,7 @@ Other:
 Modules:
 - [ ] a `Numerical.py`
 - [x] b `numerical.py`
-- [ ] c `numerical_analysis.py`
+- [x] c `numerical_analysis.py`
 - [ ] d `numerical-analysis.py`
 
 Packages:
